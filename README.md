@@ -18,7 +18,7 @@ Before you begin, ensure you have the following prerequisites:
 ...../bikes
 ........../image1.jpg, image2.jpg, ...
 ```
-If you don't have an image dataset, you can create your custom dataset using SnapShift. Learn more [here](https://medium.com/@teendifferent/stop-wasting-time-scraping-images-get-snapswift-your-python-bing-downloader-dc7ac9e2c6c7).
+If you don't have an image dataset, you can create your custom dataset using SnapShift. Learn more [here](https://medium.com/@teendifferent/stop-wasting-time-scraping-images-get-snapswift-your-python-bing-downloader-dc7ac9e2c6c7), [Github](https://github.com/REDDITARUN/Snap_Swift).
 
 ## [Check our blog for how to use]
 

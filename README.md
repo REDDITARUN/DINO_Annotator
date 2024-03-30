@@ -1,5 +1,7 @@
 # GroundingDINO - Auto Annotation of Images
 
+![DALLE2024-03-2921 35 14-CreateaminimalisticposterdesignfeaturingastylizeddinosaurDINOintheforegroundsubtlyintegratedwithdigitalorpixelelementstosugges-ezgif com-webp-to-jpg-converter](https://github.com/REDDITARUN/DINO_Annotator/assets/53268025/d852577c-36b9-4e8f-a85c-d3242ae6caeb)
+
 This repository contains tools to automate image annotation using Grounding DINO, streamlining your projects in AI and machine learning.
 
 ## Introduction

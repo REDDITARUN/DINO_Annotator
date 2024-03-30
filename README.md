@@ -22,7 +22,7 @@ Before you begin, ensure you have the following prerequisites:
 ```
 If you don't have an image dataset, you can create your custom dataset using SnapShift. Learn more [here](https://medium.com/@teendifferent/stop-wasting-time-scraping-images-get-snapswift-your-python-bing-downloader-dc7ac9e2c6c7), [Github](https://github.com/REDDITARUN/Snap_Swift).
 
-## [Check our blog for how to use]
+## [Check our blog for how to use](https://medium.com/@teendifferent/simplifying-object-detection-annotate-your-custom-dataset-with-grounding-dino-148576d497da)
 
 
 
